@@ -38,9 +38,9 @@ Example usage is as follows.
 i will use this repo for example ; https://github.com/qoomon/git-conventional-commits
 
 <center>
-<img src="images/ex1.png">
+<img src="https://github.com/AliYmn/checklogs/blob/master/images/ex1.png">
 
-<img src="images/ex2.png">
+<img src="https://github.com/AliYmn/checklogs/blob/master/images/ex2.png">
 
 ---
 
