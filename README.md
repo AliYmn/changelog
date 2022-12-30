@@ -37,13 +37,10 @@ Example usage is as follows.
 
 i will use this repo for example ; https://github.com/qoomon/git-conventional-commits
 
-<center>
-<img src="images/ex1.png">
+<img src="https://raw.githubusercontent.com/AliYmn/checklogs/master/images/ex1.png">
 
-<img src="images/ex2.png">
+<img src="https://raw.githubusercontent.com/AliYmn/checklogs/master/images/ex2.png">
 
 ---
 
 The sample check logs are as follows : [Check it!](./exChangelog.md)
-
-</center>
