@@ -65,7 +65,7 @@ class ChangeLogs():
                 f.write(self.replace_commits(commit))
             previous_tag = tag
         f.close()
-        text = "check logs created successfully."
+        text = "changelogs.md created successfully."
         print('\033[91m'+'result: ' + '\033[92m', text)
 
 
@@ -75,4 +75,4 @@ def main():
         logs = ChangeLogs(url)
         logs.getLogs()
     else:
-        print("Please write commit link : checklogs link")
+        print("Please write commit link : changelogs link")
