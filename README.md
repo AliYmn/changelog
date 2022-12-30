@@ -20,7 +20,7 @@ If comments comply with conventional commit rules, they are supported with emoji
 # Installing
 
     pip install checklogs
-
+    https://pypi.org/project/checklogs/
 
 # Example
 

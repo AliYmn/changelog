@@ -70,6 +70,9 @@ class ChangeLogs():
 
 
 def main():
-    url = str(sys.argv[1])
-    logs = ChangeLogs(url)
-    logs.getLogs()
+    if (len(sys.argv)) > 1:
+        url = str(sys.argv[1])
+        logs = ChangeLogs(url)
+        logs.getLogs()
+    else:
+        print("Please write commit link : checklogs link")

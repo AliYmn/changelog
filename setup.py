@@ -11,7 +11,7 @@ else:
 
 setup(
     name="checklogs",
-    version="2.0.0",
+    version="2.0.2",
     author="Ali Yaman",
     author_email="aliymn.db@gmail.com",
     description="Generates git changelog for Conventional Commits",

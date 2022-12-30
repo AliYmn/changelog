@@ -20,7 +20,7 @@ If comments comply with conventional commit rules, they are supported with emoji
 # Installing
 
     pip install checklogs
-
+    https://pypi.org/project/checklogs/
 
 # Example
 
@@ -37,13 +37,10 @@ Example usage is as follows.
 
 i will use this repo for example ; https://github.com/qoomon/git-conventional-commits
 
-<center>
-<img src="https://github.com/AliYmn/checklogs/blob/master/images/ex1.png">
+<img src="https://raw.githubusercontent.com/AliYmn/checklogs/master/images/ex1.png">
 
-<img src="https://github.com/AliYmn/checklogs/blob/master/images/ex2.png">
+<img src="https://raw.githubusercontent.com/AliYmn/checklogs/master/images/ex2.png">
 
 ---
 
 The sample check logs are as follows : [Check it!](./exChangelog.md)
-
-</center>
