@@ -5,6 +5,8 @@ Since we use Bitbucket, we needed something like this and I wanted to share it p
 # Emoji Support
 If comments comply with conventional commit rules, they are supported with emoji.
 
+```json
+[
     "feat": "✅",
     "fix": "🚀",
     "build": "💚",
@@ -16,7 +18,9 @@ If comments comply with conventional commit rules, they are supported with emoji
     "test": "🧪",
     "merge": "🎉",
     "revert": "⏪️"
-    
+]  
+````
+ 
 # Installing
 
     pip install changelogs-cli
@@ -26,19 +30,19 @@ If comments comply with conventional commit rules, they are supported with emoji
 First, let's get into the current your repository. 
 
 Example;
-    cd /home/repository/
+    ```cd /home/repository/```
 
 Example usage is as follows.
-    changelogs example/commits/ (this should be commit link to show reference  on changelogs md.)
+    changelogs ```example/commits/``` (this should be commit link to show reference  on changelogs md.)
 
 
 # Demo
 
 i will use this repo for example ; https://github.com/qoomon/git-conventional-commits
 
-<img src="https://raw.githubusercontent.com/AliYmn/changelogs/master/images/ex1.png">
+<img src="https://raw.githubusercontent.com/AliYmn/changelog/master/images/ex1.png">
 
-<img src="https://raw.githubusercontent.com/AliYmn/changelogs/master/images/ex2.png">
+<img src="https://raw.githubusercontent.com/AliYmn/changelog/master/images/ex2.png">
 
 ---
 

@@ -11,7 +11,7 @@ else:
 
 setup(
     name="changelogs-cli",
-    version="3.0.0",
+    version="1.0.0",
     author="Ali Yaman",
     author_email="aliymn.db@gmail.com",
     description="Generates git changelog for Conventional Commits",
@@ -19,9 +19,9 @@ setup(
     long_description_content_type="text/markdown",
     long_description=README,
     keywords="Generates git changelog for Conventional Commits",
-    packages=['changelogs'],
-    url='https://github.com/AliYmn/changelogs',
-    download_url='https://github.com/AliYmn/changelogs',
+    packages=['changelog'],
+    url='https://github.com/AliYmn/changelog',
+    download_url='https://github.com/AliYmn/changelog',
     install_requires=[],
     include_package_data=True,
     zip_safe=False,
@@ -45,5 +45,5 @@ setup(
         'Programming Language :: Python :: 3.11',
         'Programming Language :: Python :: 3.12',
     ],
-    entry_points={'console_scripts': ['changelogs=changelogs.src:main']},
+    entry_points={'console_scripts': ['changelog=changelog.src:main']},
 )
