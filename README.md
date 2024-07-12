@@ -18,16 +18,16 @@ If comments comply with conventional commit rules, they are supported with emoji
     "test": "🧪",
     "merge": "🎉",
     "revert": "⏪️"
-]  
+]
 ````
- 
+
 # Installing
 
     pip install changelogs-cli
 
 # Example
 
-First, let's get into the current your repository. 
+First, let's get into the current your repository.
 
 Example;
     ```cd /home/repository/```
@@ -44,6 +44,6 @@ i will use this repo for example ; https://github.com/qoomon/git-conventional-co
 
 <img src="https://raw.githubusercontent.com/AliYmn/changelog/master/images/ex2.png">
 
----
+----
 
 The sample check logs are as follows : [Check it!](./exChangelog.md)
