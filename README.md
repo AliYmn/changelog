@@ -44,6 +44,6 @@ i will use this repo for example ; https://github.com/qoomon/git-conventional-co
 
 <img src="https://raw.githubusercontent.com/AliYmn/changelog/master/images/ex2.png">
 
-----
+------
 
 The sample check logs are as follows : [Check it!](./exChangelog.md)
